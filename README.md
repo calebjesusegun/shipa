@@ -12,6 +12,6 @@ A live tracking application showing a real-time courier simulation, powered by t
 
 ## Screenshots
 
-![Search](screenshots/search.png) 
-
-![Tracking](screenshots/tracker.png)
+| Search | Tracking |
+| :---: | :---: |
+| ![Search](screenshots/search.png) | ![Tracking](screenshots/tracker.png) |
