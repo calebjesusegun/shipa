@@ -131,7 +131,7 @@ class MapService {
         center: Point(
           coordinates: Position((minLng + maxLng) / 2, (minLat + maxLat) / 2),
         ),
-        zoom: 12,
+        zoom: 10.5,
         pitch: 0,
         bearing: 0,
         padding: MbxEdgeInsets(top: 80, left: 50, bottom: 280, right: 50),
